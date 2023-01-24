@@ -1275,7 +1275,7 @@ sl	1331926256795971587	del dohodka	n
 sl	1331947514141040641	vdorov virusa	y	vdor	
 sl	1331947514141040641	SPOROČILO ZA JAVNOST	n		
 sl	1331947514141040641	epidemioloških razmer v drugem valu	y	val	
-sl	1332009634832510979	epidemija mino	n	mimo	ADV "mimo"
+sl	1332009634832510979	epidemija mino	n	mimo	ADV:mimo
 sl	1332009634832510979	drugo leto	n		
 sl	1332009634832510979	celotne vrednosti nakupa	n		
 sl	1332244530360442880	boju proti epidemiji	y	boj	
@@ -1839,7 +1839,7 @@ sl	1401261273472540676	rušenje boja proti epidemiji	y	boj
 sl	1402006470510755842	cepljenje duhove	n	duh	not syntactically related,not covid rel
 sl	1402040237115772928	imunski odziv pri vdoru virusa	y	vdor	
 sl	1402327476055986178	Covid oddelka na Obali	n		
-sl	1402353671384571914	pametna kot hudič pri koroni	n	hudič	fixed comparison phrase "smart as a devil"
+sl	1402353671384571914	pametna kot hudič pri koroni	n	hudič	fixed comparison phrase: smart as a devil
 sl	1403616055365443585	uspešnosti boja z epidemijo	y	boj	
 sl	1403681654779133953	vojska iz vojašnice v Wuhanu	n		
 sl	1403756427395612675	super atmosfera po pandemiji	y	atmosfera	
